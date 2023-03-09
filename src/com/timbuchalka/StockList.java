@@ -14,6 +14,7 @@ import java.util.Map;
  * Contact author at:  http://timbuchalka.com
  * 
  */
+//Test Comment
 public class StockList {
     private final Map<String, StockItem> list;
 
